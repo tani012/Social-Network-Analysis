@@ -21,17 +21,17 @@ This project performs social network analysis on a graph-based representation of
 1. Clone the repository:
     ```bash
     git clone <repository-url>
-    cd social_network_analysis
+    cd graph_project
     ```
 
 2. Compile the project:
     ```bash
-    g++ main.cpp graph.cpp -o social_network_analysis -std=c++11
+    g++ main.cpp graph.cpp -o graph_project -std=c++11
     ```
 
 3. Run the program:
     ```bash
-    ./social_network_analysis
+    ./graph_project
     ```
 
 ## Example Usage
